@@ -1,0 +1,51 @@
+allergology : alergologia
+An immunologist : immunolog
+immunology : immunologia
+An anesthesiologist : anestezjolog
+anesthesiology : anestezjologia
+A geriatrician : geriatra
+geriatrics : geriatria
+A ophthalmologist : okulista
+ophthalmology : okulistyka
+psychiatrist : psychiatra
+psychiatry : psychiatria
+otolaryngology : otolaryngologia
+A general surgeon : chirurg
+surgery : chirurgia
+A neurologist : neurolog
+neurology : neurologia
+A plastic surgeon : chirurg plastyczny
+plastic surgery : Chirurgia plastyczna
+A urologist : urolog
+urology : urologia
+Mononuclear : jednojądrzasty
+Uniglandular : jednogruczołowy
+Bilobular : dwupłatkowy
+Dizygotic : dwuzygotowy
+Hemiparesis : niedowład połowiczy
+Apnea : bezdech
+Anorexia : brak łaknienia
+Ambivalent : ambiwalentny
+Asepsis : aseptyka
+diplopia : podwójne widzenie
+unilateral : jednostronny
+bilateral : dwustronny
+monochromatic : monochromatyczny
+hemisphere : półkula
+hemiplegia : hemiplegia
+bifocal : dwuogniskowy
+binocular : obuoczny, dwuoczny, lorneta
+hemicolectomy : zabieg polegający na wycięciu części jelita grubego
+monosaccharide : monosacharydem
+monofocal : jednoogniskową
+diplococcus : dwoinka, diplokok
+illness : Choroba
+prognosis : rokowanie
+specimen : okaz
+survive : przetrwać
+Drug : lek
+prediction : prognoza
+sample : próbka
+ailment : dolegliwość
+tool, utensil : narzędzie
+remedy : lekarstwo

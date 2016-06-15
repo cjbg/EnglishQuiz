@@ -1,0 +1,50 @@
+aim : cel celować
+approach : podejście
+area : obszar
+complain : skarżyć się, narzekać
+complaint : skarga, dolegliwość
+concern : zainteresować, dotyczyć, zajmować się
+consideration : rozwaga 
+take into consideration : wziąć, brać coś pod uwagę
+cure : leczyć, wyleczyć
+dietician : dietetyk
+duty : obowiązek, dyżur
+enviroment : otoczenie, środowisko
+examination : badanie
+physical examination : badanie fizykalne
+general practitioner : lekarz ogólny
+A gynaecologist : ginekolog
+indicate : wskazać, zalecić
+holistic : holistyczny
+laboratory technician : laborant
+medication : Lek
+A obstetrician : położnik
+occupational : zawodowy, zajęciowy
+pharmacist : farmaceuta
+physiotherapist : fizjoterapeuta
+precise : dokładny, precyzyjny
+prevention : zapobieganie
+radiographer : radiolog
+recognize : rozpoznawać
+relationship : związek, stosunek
+relieve : złagodzić, zelżeć
+remedial gymnast : instruktor gimnastyki leczniczej
+require : wymagać
+sedentary : siedzący
+speciality : specjalność
+treat : leczyć
+suffering : cierpienie
+treatment : leczenie
+pharmacological : farmakologiczny
+surgical : chirurgiczny
+physical condition : kondycja fizyczna
+disease : choroba
+clinical diagnosis : diagnoza kliniczna
+homeopathy : homeopatia
+naturopathy : medycyna naturalna
+herbal medicine : medycyna ziołowa
+A dermatologist : dermatolog
+A otolaryngologist : otolaryngolog, otorynolaryngolog (specjalista chorób uszu, nosa, gardła i krtani)
+dispensary : przychodnia
+pediatrician : pediatra
+An allergist : alergolog

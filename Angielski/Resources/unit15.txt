@@ -1,0 +1,60 @@
+aqueous humor : ciecz wodnista oka
+cataract : zaæma
+choroid : naczyniówka oka
+con : czopek
+concave : wklês³y
+conjunctiva : spojówka
+convex : wypuk³y
+cornea : rogówka
+cross-eye : zez zbie¿ny
+detachment : odwarstwianie siê, odklejanie siê
+eye : oko
+eyeball : ga³ka oczna
+eyebrow : brew
+eyelid : powieka
+eye socket : oczodó³
+focus : skupiaæ, ogniskowaæ
+glaucoma : jaskra
+hypermetropia : Dalekowzrocznoœæ
+imbalance : brak rónowagi
+iris : têczówka
+lacrimal gland : gruczo³ ³zowy
+lens : soczewka
+light ray : promieñ œwietlny
+long-sightedness : dalekowzrocznoœæ
+myopia : Krótkowzrocznoœæ
+occur : wystêpowaæ, mieæ miejsce
+opacity : nieprzezroczystoœæ
+perception : postrzeganie
+protective organ : organ ochronny
+pupil : Ÿrenica
+retina : siatkówka
+rod : prêcik
+sclera : twardówka
+sense organ : narz¹d zmys³u
+short-sightedness : krótkowzrocznoœæ
+squint : zez
+strabismus : Zez
+stye : jêczmieñ
+suspensory ligament : wi¹zad³o podtrzymuj¹ce
+vision : wzrok
+vitreous humor : ciecz szklista oka
+bony eye socket : koœcisty oczodó³
+the white of the eye : Twardówka
+dim : przyciemnione
+dilates : rozszerza
+relaxes : poluŸnia
+crystalline lens : soczewki krystaliczne
+anterior chamber : przednia komora
+fovea : do³ek œrodkowy (siatkówki oka)
+optic nerve : nerw wzrokowy
+papilla : brodawka
+vitreous body : cia³o- szkliste
+ciliary processes : wyrostki rzêskowe
+posterior chamber : komora tylna
+innermost : najg³êbszy
+light-sensitive : œwiat³o czu³e
+cross-eyes : zez!
+prickling pain : mrowi¹cy ból
+congenital : wrodzony
+ophthalmoscope : Oftalmoskop

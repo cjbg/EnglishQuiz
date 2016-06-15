@@ -1,0 +1,50 @@
+adhesive plaster : przylepiec
+adhesive tape : Przylepiec
+anesthetic : środek znieczulający
+analgesic : środek przeciwbólowy
+antiallergic : środek przeciwalergiczny
+antibiotic : antybiotyk
+antipyretic : środek przeciwgorączkowy
+appointment : umówiony termin, zamówiona wizyta u lekarza
+auriscope : wziernik uszny
+cabinet : szafka
+calgul? : kalgul?
+cleanse : oczyścić
+constipation : zaparcie
+consulting room  : gabinet przyjęć lekarski
+couch : kozentka, leżanka
+disinfect : zdezynfekować
+disposable syringe : strzykawka jednorazowego użytku
+dissecting forceps : kleszczyki do preparowania
+dressing : opatrunek
+equipment : sprzęt, wyposażenie
+forceps : kleszczyki, kleszcze
+gauze : gaza
+gul?(gut?) : gul?(jelito)
+hypnotic : środek nasenny
+injury : zranienie, uszkodzenie
+laxative : środek przeczyszczający
+ophthalmoscope : wziernik oczny, Oftalmoskop
+plaster of paris : gips
+prescribe : zapisywać (lek, terapię)
+procedure : zabieg (operacyjny)
+reception : recepcja, rejestracja
+records : kartoteka, archiwum
+recover : wyzdrowieć, powrócić do zdrowia
+recovery room : sala pooperacyjna, pokój pozabiegowy
+sedative : środek uspokajający
+seize : chwytać
+sight : wzrok
+Snellen chart : tablica Snellena
+suture : szew
+suture set : zestaw narzędzi do zakładania szwów
+tongue depressor : szpatułka do uciskania języka
+torch : latarka
+tranquilizer : Środek uspokajający
+treatment room : gabinet zabiegowy
+weighing scales : waga
+wound : rana
+patient's card : Karta pacjenta
+sphygmomanometer : ciśnieniomierz
+laryngeal mirrors : lusterka krtaniowego
+palpate : obmacać

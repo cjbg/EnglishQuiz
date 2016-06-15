@@ -1,0 +1,29 @@
+armpit : dół pachwowy
+bulb : bańka
+blunt : tępy
+collapse : zapaść
+constrict : skurczyś, zacisnąć
+fever : gorączka
+flush : zaczerwienienie, zaczerwienić się
+hypothalamus : podwzgórze
+infectious : zakaźny
+pyrexia : Gorączka
+range : zakres, zasięg
+record : zapisać
+shiver : drżeć, mieć dreszcze
+site : miejsce
+sweating : pocenie się
+dilate : rozszerzać
+restlessness : niepokój
+convulsions : drgawki
+chills : dreszcze
+expectorate: wypluć
+dyspnoea : duszność
+bronchitis : zapalenie oskrzeli
+be admitted to hospital : zostać przyjętym do szpitala
+instituated a therapy : ustanowił terapii
+operated on : operowanych
+put on medication : Przyjmować leki.
+referred to a specialist : skierowany do specjalisty
+Bowel movement : wypróżnienia
+iron dextran : dekstran żelaza 

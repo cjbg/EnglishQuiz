@@ -1,0 +1,33 @@
+numbness of the fingers : drętwienie palców
+dandruff : łupież
+arterial murmur : szmer tętniczej?
+retrosternal pain : ból zamostkowy
+cholecystolithiasis : Kamica pęcherzykowa
+dementia : demencja
+incontinence : nietrzymanie moczu
+coarse rales : rzężenia grubobańkowe
+tinnitus : szum w uszach
+acne : trądzik
+anuria : bezmocz
+epileptic seizures : napady padaczkowe
+crepitations : trzeszczenia
+migraine : migrena
+urticaria : pokrzywka
+heartburn : zgaga
+pleural friction : tarcia opłucnej
+tachycardia : tachykardia
+tachypnoea : przyspieszony oddech
+wheezes : dyszeć, sapać
+haematemesis : krwawe wymioty, wymioty fusowate
+insomnia : bezsenność
+haemorrhage : krwotok
+syncope : omdlenie
+pallor : bladość
+strabismus : zez
+deafness : głuchota
+respiratory system : układ oddechowy
+cardiovascular system : układ sercowo-naczyniowy
+gastrointestinal system : układ pokarmowy
+genitourinary system : układ moczowo-płciowy
+central  nervous system : ośrodkowy układ nerwowy
+musculoskeletal system : układ mięśniowo-szkieletowy

@@ -1,0 +1,12 @@
+acquired : nabyty
+acquired immune deficiency syndrome : Zespół nabytego niedoboru odpornościowego
+addiction : uzależnienie
+ailment : choroba, cierpienie
+angina pectoris : dusznica bolesna
+chicken-pox : ospa wietrzna	
+diabetes : cukrzyca
+communicable disease : choroba zakaźna
+coronary thrombosis : zakrzepica tętnicywieńcowej
+cure : leczenie
+diabetes : cukrzycca
+chicken pox : ospa wietrzna	

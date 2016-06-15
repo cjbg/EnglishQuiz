@@ -1,0 +1,50 @@
+temporary : tymczasowy
+permanent : stały
+kidney stones : kamienie nerkowe
+retina detachment : odwarstwienie siatkówki
+hip joint degeneration : Zwyrodnienie stawu biodrowego
+impaired movement : zaburzenia ruchu
+healed leg fracture : Uzdrowienie nogi złamania
+respiratory distress : niewydolności oddechowej
+cardiac failure : Niewydolność serca
+rectal polyps : polipy odbytnicy
+Hypertension : nadciśnienie
+Hypoglycemia : hipoglikemia
+Macrocephaly : wielkogłowie
+Multigravida : wieloródka
+Oliguria : skąpomocz
+Polyuria : wielomocz
+Microcephalus : małogłowie
+multilobar : wielopłatowy?
+oligodontia : oligodontia, zmniejszona liczba zębów
+macrocolon : okrężnica olbrzymia
+hyperthyroidism : nadczynność tarczycy
+hypotension : niedociśnienie
+multilateral : wielostronny
+oligopnea : zmniejszenie częstości oddechów
+Micronodular : drobnoguzkowy
+macrocornea : rogówka olbrzymia
+hypercardia : przerost serca
+polynuclear : wielopierścieniowe
+hypometabolism : obniżenie przemiany materii
+polymorphism : polimorfizm, wielopostaciowość
+hypersensitivity : nadwrażliwość
+loss of consciousness : utrata przytomności
+nausea : nudności
+chest pain : ból w klatce piersiowej
+diarrhoea : biegunka
+hoarseness : chrypka
+ankle oedema : obrzęk stawu skokowego
+paresis : niedowład
+cyanosis : sinica
+astigmatism : astygmatyzm
+back pain : ból pleców
+joint stiffness : sztywność stawów
+muscle guarding : ochrona mięśni?
+conjunctivitis : zapalenie spojówek
+dyspnoea : duszność
+haematuria : krwiomocz
+pimples : pryszcze
+belching : odbijanie
+paralysis : paraliż
+rhinitis : katar

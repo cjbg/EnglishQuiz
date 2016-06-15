@@ -1,0 +1,36 @@
+auscultate : opukać
+pneumonia : zapalenie płuc
+anxious : niespokojny
+cyanotic : siniczy
+febrile : gorączkowy
+dyspnoeic : dusznością
+nauseated : mdłości
+tenderness : czułość
+rigidity : sztywność
+distension : nabrzmnienie
+hepatosplenomegaly : powiększenie wątroby i śledziony
+resonant : rezonansowy
+dull : głuchy
+crepitations : trzeszczenia
+creps : Trzeszczenia
+crackles : trzaski
+coarse rales : grube rzężenia
+fine rales : drobne rzężenia
+moist rales : wilgotne rzężenia
+wheezes : charczenie
+rhonchi : rzężenia
+pleural friction : tarcia opłucnej
+cardiac murmurs : szmery sercowe
+tuberculosis : gruźlica
+pharyngitis : zapalenie gardła
+measles : odra
+parasites : pasożyt
+fungi : grzyby
+bronchoscopy : bronchoskopia
+immunity : odporność
+angiography : angiografia
+appendectomy : wycięcie ślepej kiszki
+haemorrhage : krwotok
+gastritis : nieżyt żołądka
+laparotomy : laparotomia
+hysterectomy : usunięcie macicy

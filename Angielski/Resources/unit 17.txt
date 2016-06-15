@@ -1,0 +1,101 @@
+aim : cel celowaæ
+approach : podejœcie
+area : obszar
+complain : skar¿yæ siê, narzekaæ
+complaint : skarga, dolegliwoœæ
+concern : zainteresowaæ, dotyczyæ, zajmowaæ siê
+consideration : rozwaga 
+take into consideration : wzi¹æ, braæ coœ pod uwagê
+cure : leczyæ, wyleczyæ
+dietician : dietetyk
+duty : obowi¹zek, dy¿ur
+enviroment : otoczenie, œrodowisko
+examination : badanie
+physical examination : badanie fizykalne
+general practitioner : lekarz ogólny
+A gynaecologist : ginekolog
+indicate : wskazaæ, zaleciæ
+holistic : holistyczny
+laboratory technician : laborant
+medication : Lek
+A obstetrician : po³o¿nik
+occupational : zawodowy, zajêciowy
+pharmacist : farmaceuta
+physiotherapist : fizjoterapeuta
+precise : dok³adny, precyzyjny
+prevention : zapobieganie
+radiographer : radiolog
+recognize : rozpoznawaæ
+relationship : zwi¹zek, stosunek
+relieve : z³agodziæ, zel¿eæ
+remedial gymnast : instruktor gimnastyki leczniczej
+require : wymagaæ
+sedentary : siedz¹cy
+speciality : specjalnoœæ
+treat : leczyæ
+suffering : cierpienie
+treatment : leczenie
+pharmacological : farmakologiczny
+surgical : chirurgiczny
+physical condition : kondycja fizyczna
+disease : choroba
+clinical diagnosis : diagnoza kliniczna
+homeopathy : homeopatia
+naturopathy : medycyna naturalna
+herbal medicine : medycyna zio³owa
+A dermatologist : dermatolog
+A otolaryngologist : otolaryngolog, otorynolaryngolog (specjalista chorób uszu, nosa, gard³a i krtani)
+dispensary : przychodnia
+pediatrician : pediatra
+An allergist : alergolog
+allergology : alergologia
+An immunologist : immunolog
+immunology : immunologia
+An anesthesiologist : anestezjolog
+anesthesiology : anestezjologia
+A geriatrician : geriatra
+geriatrics : geriatria
+A ophthalmologist : okulista
+ophthalmology : okulistyka
+psychiatrist : psychiatra
+psychiatry : psychiatria
+otolaryngology : otolaryngologia
+A general surgeon : chirurg
+surgery : chirurgia
+A neurologist : neurolog
+neurology : neurologia
+A plastic surgeon : chirurg plastyczny
+plastic surgery : Chirurgia plastyczna
+A urologist : urolog
+urology : urologia
+Mononuclear : jednoj¹drzasty
+Uniglandular : jednogruczo³owy
+Bilobular : dwup³atkowy
+Dizygotic : dwuzygotowy
+Hemiparesis : niedow³ad po³owiczy
+Apnea : bezdech
+Anorexia : brak ³aknienia
+Ambivalent : ambiwalentny
+Asepsis : aseptyka
+diplopia : podwójne widzenie
+unilateral : jednostronny
+bilateral : dwustronny
+monochromatic : monochromatyczny
+hemisphere : pó³kula
+hemiplegia : hemiplegia
+bifocal : dwuogniskowy
+binocular : obuoczny, dwuoczny, lorneta
+hemicolectomy : zabieg polegaj¹cy na wyciêciu czêœci jelita grubego
+monosaccharide : monosacharydem
+monofocal : jednoogniskow¹
+diplococcus : dwoinka, diplokok
+illness : Choroba
+prognosis : rokowanie
+specimen : okaz
+survive : przetrwaæ
+Drug : lek
+prediction : prognoza
+sample : próbka
+ailment : dolegliwoœæ
+tool, utensil : narzêdzie
+remedy : lekarstwo

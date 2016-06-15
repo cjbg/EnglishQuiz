@@ -1,0 +1,138 @@
+acoustic nerve : nerw s³uchowy
+anvil (Incus) : kowade³ko
+athetosis : atetoza, powolne ruchy palców
+auditory : s³uchowy
+pinna (auricle) : ma³¿owina uszna
+cartilage : chrz¹stka, tkanka chrzêstna
+cerebral palsy : parali¿, pora¿enie mózgowe
+cochlea : œlimak
+convert : zamieniæ
+deafness : g³uchota
+drum : bêbenek
+ear : ucho
+earache : ból ucha
+enclose : otoczyæ
+eustachian tube : tr¹bka eustahiusza, tr¹bka s³uchowa
+external : zewnêtrzny
+hammer (malleus) : m³oteczek
+helix : spirala, helisa
+hearing : s³uch, s³yszenie
+labirinth : labirynt
+lobes : p³aty (ucha)
+neonatal meningitis : noworodkowe zapalenie opon mózgowych
+otitis media : zapalenie ucha srodkowego
+perilymph : perilimfa
+punctured : przek³uty, przebity
+pus : ropa
+rubella : ró¿yczka
+stimuli (pl.), stimulus (sing.) : bodziec
+stirrup (stapes) : strzemi¹czko (kostka s³uchowa)
+tympanic cavity : jama bêbenkowa
+tympanic membrane : b³ona bêbenkowa
+vistibule : przedsionek
+external ear : ucho zewnêtrzne
+middle ear : ucho œrodkowe
+internal ear : ucho wewnêtrzne
+external auditory canal : zewnêtrzny kana³ s³uchowy
+temporal bone : koœæ skroniowa
+semicircular canal : kana³ pó³kolisty
+mastication : ¿ucie
+inflammation : zapalenie
+congenital : wrodzony
+inherited deafness : dziedziczna g³uchota
+mental subnormality : upoœledzenie umys³owe
+infection : zaka¿enie
+peri- : around
+ecto- : exterior
+endo- : inside
+inter- : Between
+intra- : Within
+extra- : Outside of
+supra- : over, above
+epi- : Over, above
+sub- : under
+ab- : away from
+ad- : Toward
+e- : Without
+ex- : Off, out
+in- : In, into
+eye socket : eye orbit
+yellow spot : macula flova
+Window of the eye : cornea
+White of the eye : sclera
+Sight : vision
+Cross eyes : strobismus
+short-sight : myopio
+long-sight : hypermetropia
+Pinna : auricle
+Ear drum : tympanic membrane
+hammer : malleus
+Stirrup : stapes
+anvil : incus
+Injury : trauma
+Hormone replacement therapy : hormonalna terapia zastêpcza
+prescribed : przepisana
+hormone imbalance : zaburzenia hormonalne
+alleviate : ³agodziæ
+discomfort : niewygoda
+unblock :  odblokowaæ
+untreated : nieleczone
+disorder : dolegliwoœæ
+reproductive system : uk³ad rozrodczy
+miscarriage : poronienie
+water-insoluble : nierozpuszczalne w wodzie
+undetected : niewykryte
+irreversible : nieodwracalny
+incurable stage : nieuleczalny etap
+impermeable : nieprzepuszczalny
+dislocated : zwichniêty
+unaffected : nie dotkniêty, bez zmian
+immovable : nieruchome
+irregularly : nieprawid³owo, nieregularnie
+intolerance : nietolerancja
+infertility : bezp³odnoœæ
+ineffective : nieskuteczne
+disabled : niepe³nosprawny
+reassurance : uspokojenie
+unable : niezdolny, nie byæ w stanie
+cope : radziæ sobie z czymœ
+immobilized : unieruchomiony
+inapparent : utajone	
+abnormality : nieprawid³owoœæ, anormalnoœæ
+lozenge : pastylka
+dissolves : rozpuszcza
+unconscious : nieprzytomny
+insensitive : niewra¿liwy, nieczu³y
+disappointment : rozczarowanie
+unaware : nieœwiadomy
+disapproved : nie popiera
+malabsorption : nieprawid³owe wch³anianie
+inability : niezdolnoœæ
+unrevealed : nieujawniona
+unexpected : nieoczekiwany
+inadequate : nieodpowiedni
+discourage : zniechêciæ
+inactive : nieaktywny
+uncomfortable : niewygodny
+inflamed : stan zapalny
+involuntary : mimowolny
+impatience : niecierpliwy
+disappear : znikaæ
+irrelevant : nieistotny
+unchanged : bez zmian
+unequal : nierówny
+inaccurate : niedok³adny
+unemployed : bezrobotny
+aminotic fluid : p³yn owodniowy
+birth canal : kana³ rodny
+breach position : po³o¿enie poœladkowe
+dilated cervix : rozwarta szyjka macicy
+fallopian tube : jajowód 
+foetal monitoring : ca³odobowa obserwacja p³odu
+lanugo hair : meszek
+maternal blood : matczyna krew
+menstrual period : miesi¹czka
+multiple pregnancy : ci¹¿a mnoga
+premature baby : wczeœniak
+umbilical cord : pêpowina
+uterine contraction : skurcz macicy

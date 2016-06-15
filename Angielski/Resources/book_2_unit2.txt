@@ -1,0 +1,147 @@
+contagious : zakaŸny
+contaminate : skaziæ, zanieczyœciæ
+discharge : wydzielina
+droplet : kropelka
+iatrogenic : jatrogenny, spowodowany przez lekarza
+lozenge : pastylka do ssania
+malaise : z³e samopoczucie
+myxovirus : miksowirus
+nutritional : dotycz¹cy od¿ywiania
+resistance : odpornoœæ, opornoœæ
+subside : cofaæ siê (o chorobie objawach), ustêpowaæ
+infectious : ZakaŸny
+communicable : zaraŸliwy
+transmissible : zaraŸliwe
+idiopathic : bez samoistnej przyczyny
+reportable : choroba podlegaj¹ca zg³oszeniu
+contamination : ska¿enie
+contamitent : wspó³istniej¹cy	
+resistant : byæ odpornym
+immune to : Byæ odpornym
+susceptible : podatny
+subsidence : ustêpowanie objawów
+prevention : profilaktyka
+acquired : nabyty
+influenza : grypa
+flu : Grypa
+viral infection : infekcja wirusowa
+upper respiratory tract : górnych dróg oddechowych
+responsible : odpowiedzialne
+spread : rozprzestrzeniaæ siê
+utensils : naczynia
+incubation period : okres inkubacji
+shivering : dreszcze
+muscle ache : ból miêœni
+sore throat : ból gard³a
+hoarseness : chrypka
+runny nose : katar
+general malaise : ogólne z³e samopoczucie
+mutate : zmutowaæ
+treatment : leczenie
+antipyretics : przeciwgor¹czkowe
+analgesics : leki przeciwbólowe
+nasal spray : spray do nosa
+nasal discharge : wydzielina z nosa
+persist : trwa
+viral pneumonia : wirusowe zapalenie p³uc
+secondary bacterial pneumonia : wtórne bakteryjne zapalenie p³uc
+streptococcus : paciorkowiec
+prophylaxis : Profilaktyka
+vaccination : szczepienie ochronne
+crowded : zat³oczone
+life-long : trwaj¹cy na ca³e ¿ycie
+congenital : wrodzony
+chronic : chroniczny
+inherited : dziedziczny
+metabolic : metaboliczny
+neoplastic : nowotworowa
+fatal : œmiertelny
+allergic : alergiczny
+endocrine : wewn¹trzwydzielniczy
+gland : gruczo³
+diabetes : cukrzyca
+asthma : astma'
+peptic ulcer : wrzód trawienny
+hypertension : nadciœnienie	
+pneumonia : zapalenie p³uc
+gout : dna
+rheumatoid : reumatoidalne
+arthritis : artretyzm
+carcinoma : rak
+measles : odra
+hyperthyroidism : nadczynnoœæ tarczycy
+haemophilia : hemofilia
+hay fever : katar sienny
+glomerulonephritis : k³êbuszkowe zapalenie nerek
+fallot's tetralogy : tetralogia Fallota
+chicken pox : ospa wietrzna
+hepatitis : zapalenie w¹troby
+anaemia : niedokrwistoœæ
+cholecystolithiasis : kamica pêcherzykowa
+panacreatitis : zapalenie trzustki
+symptom : objaw
+sydrome : zespó³ objawów
+burn : oparzenie
+goitre : wole
+paralysis : parali¿
+deafness : g³uchota
+tachypnoea : przyspieszony oddech
+amenorrhoea : brak menstruacji
+amnesia : amnezja
+pallor : bladoœæ
+insomnia : bezsennoœæ
+agitation : podniecenie
+tremor : dr¿enie
+haematuria : krwiomocz
+strabismus : zez
+hyperlipidemia : hiperlipidemia(podwy¿szonymi poziomami frakcji cholesterolu lub trójglicerydów w surowicy krwi)
+tinnitus : szum w uszach
+alopecia : ³ysienie
+stomachache : ból brzucha
+palpitation : Dr¿enie
+weight change : zmiana masy
+thirst : pragnienie
+astigmatism : astygmatyzm
+rash : wysypka
+exopthalmos : wytrzeszcz
+vertigo : zawrót g³owy
+winking : zamigotaæ, mrugn¹æ
+intense sweating : intensywne pocenie siê
+cyanosis : sinica
+anorexia : anoreksja
+excesive lacrimation : nadmierne ³zawienie
+coma : œpi¹czka
+itching : swêdzenie
+muscle guarding : OBRONA MIÊŒNIOWA	
+hyperglycemia : hiperglikemia
+myopia : krótkowzrocznoœæ
+chills : Dreszcze
+shortness of breath : dusznoœæ
+cough : kaszel
+sputum : plwocina
+dehydrated : odwodniony
+rapid : szybki
+shalow : p³ytki
+percussion : opukanie
+ausculation : op³ukanie
+left unilateral : lewe jednostronne
+basal crepitations : trzeszczenie podstawnokomórkowego
+coarse rales : grube rzê¿enia
+sibilant rhonchi : sycz¹cy rhonchi
+distension : nabrzmienie
+tenderness : czu³oœæ
+bowel sounds : odg³osy z jelit
+steptococal pneumonia : paciorkowcowe zapalenie p³uc
+ventricular hypertrophy : przerost komory serca
+tachycardia : tachykardia
+broke out : wybuchn¹æ (epidemia wybuch³a)
+came down : spaœæ (populacja spad³a)
+make an appointment : umówiæ siê
+home call : wizyta domowa
+prescribed : przepisaæ
+round : obchód
+contracted : zapaœæ
+to come round : odzyskaæ przytomnoœæ
+strip : rozebraæ siê
+sick leave : zwolnienie chorobowe
+get out of : pozbyæ siê np. kaszlu

@@ -1,0 +1,133 @@
+bone marrow : szpik kostny
+counselling : poradnictwo
+donor : dawca
+excision : wyciêcie
+immune system : uk³ad odpornoœciowy
+immunosuppressant : œrodek immunosupresyjny
+laser : laser
+lithotripsy : kruszenie kamieni
+palliative : paliatywny, ³agodz¹cy
+recipient : biorca
+rejection : odrzucenie
+substitute : substytut, zastêpowainie, podstawianie
+tiny : ma³y
+ultrasonography : ultrasonografia
+radiation therapy : radioterapia
+endoscope : endoskop
+transplant surgery : operacja przeszczepu
+hip joint : staw biodrowy
+heart valves : zastawki serca
+lens : soczewka
+cysts : torbiele
+derived from plants : pochodz¹ce z roœlin
+antimicrobials : œrodki przeciwdrobnoustrojowe
+respiratory rate : czêstoœæ oddechów
+severely : ciê¿ko
+radium : rad
+conservative : konserwatywny
+adjuvant : œrodek wspomagaj¹cy
+ambulatory : ambulatoryjny
+prophylactic : profilaktyczny
+emergency : przeciwawaryjny, nag³y przypadek
+exploratory : badawczy
+radical : radykalny
+reconstructive : rekonstrukcyjna
+antipyretic : przeciwgor¹czkowy
+antihypertensive : przeciwnadciœnieniowe
+antiinflammatory : przeciwzapalne
+anticoagulant : przeciwzakrzepowe
+antihistamic : przeciwhistaminowy
+aperient : œrodek przeczyszczaj¹cy
+gradual : stopniowy
+rapid : szybki
+uneventful : spokojny
+unexpected : nieoczekiwany
+encouraging : zachêcaj¹cy
+reliable : niezawodny
+striking : uderzaj¹cy
+immediate : natychmiastowy
+excellent : doskona³y
+mild : ³agodny
+temporary : tymczasowy
+permanent : sta³y
+kidney stones : kamienie nerkowe
+retina detachment : odwarstwienie siatkówki
+hip joint degeneration : Zwyrodnienie stawu biodrowego
+impaired movement : zaburzenia ruchu
+healed leg fracture : Uzdrowienie nogi z³amania
+respiratory distress : niewydolnoœci oddechowej
+cardiac failure : Niewydolnoœæ serca
+rectal polyps : polipy odbytnicy
+Hypertension : nadciœnienie
+Hypoglycemia : hipoglikemia
+Macrocephaly : wielkog³owie
+Multigravida : wieloródka
+Oliguria : sk¹pomocz
+Polyuria : wielomocz
+Microcephalus : ma³og³owie
+multilobar : wielop³atowy?
+oligodontia : oligodontia, zmniejszona liczba zêbów
+macrocolon : okrê¿nica olbrzymia
+hyperthyroidism : nadczynnoœæ tarczycy
+hypotension : niedociœnienie
+multilateral : wielostronny
+oligopnea : zmniejszenie czêstoœci oddechów
+Micronodular : drobnoguzkowy
+macrocornea : rogówka olbrzymia
+hypercardia : przerost serca
+polynuclear : wielopierœcieniowe
+hypometabolism : obni¿enie przemiany materii
+polymorphism : polimorfizm, wielopostaciowoœæ
+hypersensitivity : nadwra¿liwoœæ
+loss of consciousness : utrata przytomnoœci
+nausea : nudnoœci
+chest pain : ból w klatce piersiowej
+diarrhoea : biegunka
+hoarseness : chrypka
+ankle oedema : obrzêk stawu skokowego
+paresis : niedow³ad
+cyanosis : sinica
+astigmatism : astygmatyzm
+back pain : ból pleców
+joint stiffness : sztywnoœæ stawów
+muscle guarding : ochrona miêœni?
+conjunctivitis : zapalenie spojówek
+dyspnoea : dusznoœæ
+haematuria : krwiomocz
+pimples : pryszcze
+belching : odbijanie
+paralysis : parali¿
+rhinitis : katar
+numbness of the fingers : drêtwienie palców
+dandruff : ³upie¿
+arterial murmur : szmer têtniczej?
+retrosternal pain : ból zamostkowy
+cholecystolithiasis : Kamica pêcherzykowa
+dementia : demencja
+incontinence : nietrzymanie moczu
+coarse rales : rzê¿enia grubobañkowe
+tinnitus : szum w uszach
+acne : tr¹dzik
+anuria : bezmocz
+epileptic seizures : napady padaczkowe
+crepitations : trzeszczenia
+migraine : migrena
+urticaria : pokrzywka
+heartburn : zgaga
+pleural friction : tarcia op³ucnej
+tachycardia : tachykardia
+tachypnoea : przyspieszony oddech
+wheezes : dyszeæ, sapaæ
+haematemesis : krwawe wymioty, wymioty fusowate
+insomnia : bezsennoœæ
+haemorrhage : krwotok
+syncope : omdlenie
+pallor : bladoœæ
+strabismus : zez
+deafness : g³uchota
+respiratory system : uk³ad oddechowy
+cardiovascular system : uk³ad sercowo-naczyniowy
+gastrointestinal system : uk³ad pokarmowy
+genitourinary system : uk³ad moczowo-p³ciowy
+central  nervous system : oœrodkowy uk³ad nerwowy
+musculoskeletal system : uk³ad miêœniowo-szkieletowy

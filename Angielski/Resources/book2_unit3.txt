@@ -1,0 +1,84 @@
+angiography : angiografia
+atheroma : ognisko miażdżycowe
+bypass : przepływ omijający, połączenie omijające - utworzenie przepływu omijającego
+concious : przytomny
+conciousness : świadomość
+contract : kurczyć
+crushing  : miażdżący
+emboli : czopy zatorowe
+embolus : czop zatorowy
+embolism : zator
+fibrillation : drżenie włókienkowe, migotanie
+graft : przeszczep
+hyperlipidemia : podwyższony poziom lipidów
+insufficiency : niewydolność, niedobór
+ischaemia : niedokrwienie
+necrosis : martwica
+pacemaker : rozrusznik
+plaque : płytka, blaszka
+rupture : pęknięcie, rozerwanie
+sedentary : siedzący
+squeeze : nagły silny ból
+thrombi: skrzepliny
+thrombus : skrzeplina
+thrombosis : zakrzepica
+myocardial infarction : zawał mięśnia sercowego
+heart infract : zawał serca
+atherosclerosis : miażdżyca
+necrotic myocardium :  martwicze zapalenie mięśnia sercowego
+obesity : otyłość
+hypertension : nadciśnienie
+diabetes mellitus : cukrzyca
+coronary artery disease : choroba wieńcowa
+nausea : nudności
+dyspnoea : duszność
+arythmias : zaburzenia rytmu serca
+tachycardia : tachykardia
+bradycardia : bradykardia
+heart failure : niewydolność serca
+atrial fibrillation : migotanie przedsionków
+pericarditis : zapalenie osierdzia
+dressler's syndrome : zespół dresslera
+cardiogenic shock : szok kardiogenny
+heart septum : przegroda serca
+creatinine kinase : kinazy kreatyniny
+aspartate aminotransferase : aminotransferazy asparaginianowej
+lactate dehydrogenase : dehydrogenazy mleczanowej
+troponin : troponiny
+thrombolytic drugs : leki trombolityczne
+anticoagulants : leki przeciwzakrzepowe
+analgesics : leki przeciwbólowe
+antiarrhythmic drugs : leki antyarytmiczne
+antihypertensives : leki przeciwnadciśnieniowe
+angiotensin : angiotensyna
+diuretics : diuretyki
+nitroglycerin : nitrogliceryna
+balloon angioplasty : angioplastyka balonowa
+acute : ostry
+retrosternal : zamostkowy
+stout : gruby
+cyanotic : siniczy
+murmur : szmer
+apex : szczyt
+palpable : namacalny
+peristalsis : perystaltyka
+hyperthrophy : hipertrofia
+pectoris : piersiowa
+antrioventicular block : blok przedsionkowo-komorowy
+left venticular failure : niewydolność lewej komory
+congestive heart failure : zastoinowa niewydolność serca
+myocardial ischaemia : niedokrwienie mięśnia sercowego
+cardiac arrhythmia : arytmia serca
+valvular heart disease : wada zastawkowa serca
+mitral valve prolapse : wypadanie płatka zastawki dwudzielnej
+tricuspid valve disease : Choroba trójdzielnej zawór
+ventricular fibrillation : migotanie komór
+cardiac arrest : zatrzymanie akcji serca
+pericardial effusion : wysiąk osierdziowy
+sudden cardiac death : nagłej śmierci sercowej
+ankle oedema : kostki obrzęk
+anxiety : niepokój
+dyspnoea on exertion : duszność podczas wysiłku
+dyspnoea at rest : duszność w spoczynku
+epistaxis : krwawienie z nosa
+vertigo : zawrót głowy

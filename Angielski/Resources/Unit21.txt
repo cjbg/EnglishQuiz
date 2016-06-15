@@ -1,0 +1,36 @@
+anaesthetic room : sala do wprowadzania znieczulania ogólnego
+communicable disease : choroba zakaźna
+dispensary : apteka szpitalna
+emergency : nagły przypadek
+endowment : fundacja
+general hospital : szpital ogólny
+injure : zranić
+in-patient : chory leżący w szpitalu
+insurance : ubezpieczenie
+issue : wydawać
+medical ward : oddział wewnętrzny
+operating theatre: sala operacyjna
+out-patien department : przychodnia przy szpitalu, ambulatorium
+provide : dostarczyć, zapewnić
+require : wymagać
+research : badania naukowe
+ward : sala chorych w szpitalu(oddział)
+X-ray department : oddział radiografii, pracownia radiograficzna
+attached : przyłączone
+postgraduates : podyplomowy
+community hospital :  mały szpital rejonowy
+maternity hospital : szpital położniczy
+geriatrics hospital : szpital geriatryczny?
+Emergency Department : ostry dyżur 
+The Intensive Care Unit, Intensive Therapy Unit : Intensywnej Terapii
+Recovery Room :  pokój wybudzeń
+Pathology Laboratory (Path Lab) : Pracownia(lagoratorium) patologii
+The Blood Bank : bank krwi
+Medical Records : historia choroby
+measles complication : measles complication
+hepatitis : zapalenie wątroby
+pneumonia : zapalenie płuc
+rash : wysypka
+cataract operation : operacja zaćmy
+investigation : śledztwo
+Coronary care unit : oddział intensywnej Opieki kardiologicznej

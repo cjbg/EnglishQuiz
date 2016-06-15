@@ -1,0 +1,45 @@
+﻿adjunctive:pomocniczy
+complexion:cera
+graft:przeszczep
+itch:swędzieć
+junction:połączenie
+melanoblast:kom wytwarzająca melaninę
+melanoma: czerniak
+mole:znamię
+recurrence:nawrót
+survival:przeżycie
+refers: odwołać się
+malignant lesion: zołośliwe zmiany
+affected:zaatakowany
+rarely: rzadko
+slighty raised: lekko wypukła
+flat: płaski
+existing: istniejący
+exposure: wystawienie na
+metastases: przerzuty 
+consist:składać się
+involves: wymagać
+depends: zależeć
+thickness: gęstość 
+promotes: promować, propagować
+anxious: niespokojny
+sudden: nagły, niespodziewany
+childhood: dzieciństwo
+sunbathe: opalanie
+broad-brimmed hat:?
+crust: skórka, piętka 
+acne:trądzik
+macula: plama, skaza
+blister: bąbel, odcisk, pęcherz
+pimple: pryszcz, krosta, wyprysk
+dandruff: łupież
+absent:present
+general:local
+minimal:maximal
+vertical:horizontaal
+deep:superficial
+stimulate:inhibit
+upwardLdownward
+outside:inside
+fortunetly: na szczęście
+area:miejsce

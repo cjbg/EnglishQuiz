@@ -1,0 +1,81 @@
+anuria : bezmocz
+bladder : pêcherz
+calyx : kielich (nerki)
+cortex : kora
+dysuria : bolesne, trudne oddawanie moczu
+failure : niewydolnoœæ
+glomerulus : k³êbuszek nerkowy
+haematuria : krwiomocz
+incontinence : nietrzymanie moczu
+kidney : nerka
+lesion : zmiana chorobowa
+medulla : rdzeñ, substancja rdzenna
+neoplasm : nowotwór
+nephritis : zapalenie nerek
+nephroblastoma : nerczak niedojrza³y, guz Wilmsa
+nephron : nefron
+nocturia : nadmierna diurcza nocna
+oliguria : sk¹pomocz
+pelvis : miedniczka nerkowa
+pyelonephritis : odmiedniczkowe zapalenie nerek
+pyuria : ropomocz
+retention : zatrzymanie, wstrzymanie
+secrete : wydzielaæ
+tiny : ma³y
+trace : œlad
+tubule : kanalik nerkowy
+uraemia : mocznica
+ureter : moczowód
+urethra : cewka moczowa
+urinary system, genitourinary system : uk³ad wydalniczy
+urine : mocz
+Hilus : wnêka
+Vena cava : ¿y³a g³ówna
+Systemic artery : têtnica systemowa?
+Renal artery : Têtnica nerkowa
+Renal vein : ¿y³a nerkowa
+posterior abdominal wall : tylna œciana brzucha
+kidney capsule (ta na obrazku) : kapsu³ka nerek?? mo¿e otoczka?
+coiled : zwoje
+capillaries : naczynka
+Bowman's capsule : Torebki Bowmana
+obstruct (obstruct the urine flow) : blokowaæ
+Urinary tract : drogi moczowe ?
+cystitis : zapalenie pêcherza
+tissue oedema : obrzêk tkanki
+malignant neoplasms : nowotwory z³oœliwe
+urolithiasis : kamica nerkowa
+renal failure : niewydolnoœæ nerek
+malaise : z³e samopoczucie
+nausea : nudnoœci
+vomiting : wymioty
+lethargy : letarg
+mental confusion : spl¹tanie
+glycosuria : cukromocz
+ketonuria : ketonuria
+proteinuria : bia³komocz
+polyuria : wielomocz
+Urolithiasis : kamica moczowa
+Nephrodema : obrzêk nerki
+Urethritis : zapalenie cewki moczowej
+Ureterostoma : przetoka moczowodu
+Hysterectomy : wyciêcie macicy
+Colposcopy : wziernikowanie pochwy
+Orchitis : zapalenie j¹der
+Genitourinary : moczowo-p³ciowy
+Belly/tummy : brzuch
+Bowel/gut : jelito
+Childbirth : poród
+Digestive system : uk³ad pokarmowy
+Excretory system : wydalniczy system
+Genitals : genitalia
+Gums : dzi¹s³a
+Lower jaw : Dolna szczêka
+Mouth : usta
+Stone : kamieñ
+Stool : stolec
+Upper jaw : szczêka
+Urinary stones : kamienie moczowe
+Water : woda
+Waterworks : wodoci¹g
+Watery stool : wodnisty stolec

@@ -1,0 +1,56 @@
+aspect : aspekt, strona oglądania
+buttock : pośladek
+cerebro-spinal : mózgowo rdzeniowy
+diabetic coma : śpiączka cukrzycowa
+disposable syringe : strzykawka jednorazowa
+fluid : płyn
+hydrocortisone acetate : octan hydrokorizonu
+infusion : wlew, infuzja
+injection : zastrzyk
+intra-articular : dostawowy(zastrzyk)
+intradermal : śródskórny
+intramuscular : domięśniowy
+intrathecal : dooponowy
+intravenous : dożylny
+irritant : drażniący
+leukaemia : białaczka
+lumbar puncture : punkcja lędźwiowa
+meningitis : zapalenie opon mózgowo-rdzeniowych
+purpose : cel
+route : droga
+subcutaneous : podskórny
+superficial : powierzchniowy
+convenient : wygodny
+mucous : śluzowaty
+gastrointestinal tract : przewód pokarmowy
+parenterally  : pozajelitowo
+intracutaneous : Śródskórny
+hypodermic injection : iniekcja podskórna
+thigh : udo
+dextrose : glukoza
+electrolyte : elektrolit
+joint : staw
+arthritis : artretyzm
+dose : dawka
+penicillin : penicylina
+streptomycin : streptomycyna
+methotrexate : metotreksat
+codeine : kodeina
+ringer's lactate : mleczan Ringera
+erythromycin : erytromycyna
+urine specimen : próbka moczu
+digoxin : digoksyna
+elix phenobarbital : Elix fenobarbital??? może elixir???
+auricle : małżowina uszna
+articulation : artykulacja
+dermis : skóra właściwa
+cerebrum : mózg
+diabetes : cukrzyca
+spine : kręgosłup
+surface : powierzchnia, wierzch
+vein : żyła
+ointments : maści
+parenteral : pozajelitowe
+Topical : miejscowe
+suppositories : czopki
+digestive tract : Przewód pokarmowy

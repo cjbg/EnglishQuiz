@@ -1,0 +1,45 @@
+adenocarcinoma : gruczolakorak, rak gruczołowy
+colitis : zapalenie okrężnicy
+colonoscopy : wziernikowanie okrężnicy
+colostomy : wytworzenie przetoki okrężniczo-skórnej, kolostomia
+excise : wyciąć
+extent : zakres, zasięg
+faeces : kał
+flexible : giętki
+forceps : kleszcze, szczypce
+incision : nacięcie
+laparotomy : otwarcie jamy brzusznej
+maligmant : złośliwy
+polyposis : polipowatość
+rectoscopy : wziernikowanie odbytnicy
+relapse : nawrót choroby
+sample : próbka
+specimen : Próbka
+ulcerative : wrzodziejący
+diet low in fibre : Dieta uboga w błonnik
+heredity : dziedziczność
+ageing : starzenie się
+colorectal cancer : raka jelita grubego
+constipation : zaparcie
+abdominal pain : ból brzucha
+bowel obstruction : niedrożność jelit
+metastases : przerzuty
+metastosis : przerzut
+anus : odbyt
+inoperable : nieoperowalne
+upsets : podrażnia
+does not interfere : nie wpływa
+diurnal activities : codzienny tryb życia
+rectal tenesmus : parcie
+decrease in appetite : zmniejszony apetyt
+hernia : przepłuklina
+can be coped with : można sobie z tym radzić
+barium enema : wlew barowy
+diverticulitis : zapalenie uchyłków
+ileitis : zapalenie jelita krętego
+suture, stitched, sewed up : zszyć
+relapse, recrudence : nawrót 
+dismiss : zwolnić
+blister : bąbel
+sting : ukłucie
+blotch : krosta

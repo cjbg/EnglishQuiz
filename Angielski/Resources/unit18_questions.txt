@@ -1,0 +1,39 @@
+What brings you here? : Co cie tu sprowadza?
+What are your complaints? : Jakie są twoje dolegliwości?
+What seems to be the problem? : Co wydaje się być problemem?
+How long have you had this pain? : Jak długo miałeś ten ból?
+How long does this pain last? : Jak długo ten ból trwał?
+When did the pain start? : Kiedy zaczął się ból?
+When did you first notice it? : Kiedy po raz pierwszy zauważyłeś go?
+where does it hurt? : Gdzie boli?
+Show me where the pain is? : Pokaż mi, gdzie jest ból?
+Which part of your head/chest/abdomen is affected? : Której częśći twojej głowy / klatki piersiowej / brzucha to dotyczy?
+Does it stay in one place or does it radiate anywhere else? : Czy pozostaje w jednym miejscu czy promienieje w inne miejsce?
+What kind of pain is it? : Jaki to rodzaj bólu?
+Can you describe the pain? : Czy możesz opisać ból?
+Does it affect your sleep/work? : Czy to wpływa na sen / pracy?
+Is the pain continuous or does it come and go? : Czy ból jest ciągły, czy też przychodzi i odchodzi?
+How often are the attacks? : Jak często są ataki?
+What seems to bring the pain on? : Co zdaje się przynosić ból?
+Is the pain relieved by drugs/rest/position? : Czy ból ustępuje po odpoczynku / lekarstwach / zmienieniu pozycji?
+Does anything make it better/worse? : Czy po czymś  polepsza się / staje się gorszy?
+Have you taken any medicine for the pain? : Brałeś jakieś lekarstwo na lek?
+Did the tablets help? : Czy tabletki pomogły?
+Apart from your chest pain are there any other problems? : Oprócz bólu w klatce piersiowej czy są jakieś inne problemy?
+How's your appetite? : Jak twój apetyt?
+Do you have any problems with passing water? : Czy masz jakieś problemy z oddawaniem wody?
+Are your bowel motions regular? : Czy masz regularne wypróżnienia?
+Have you noticed any blood in your stools? : Czy zauważyłeś jakąś krew w stolcu?
+Have you ever been operated on? : Czy kiedykolwiek byłeś operowany?
+Have you ever been admitted to hospital? : Czy kiedykolwiek został przyjęty do szpitala?
+Have you ever had chest pain before? : Czy kiedykolwiek miałeś ból w klatce piersiowej wcześniej?
+Are your parents alive and well? : Czy twoi rodzice żyją i miewają się dobrze?
+What did he/she die of? : Na co on/ona umarł/a?
+Does anyone in your family suffer from this problem? : Czy ktoś z Twojej rodziny cierpi na ten problem?
+How old are you? : Ile masz lat?
+What's your job? : Jaki jest twój zawód?
+Where do you live? : Gdzie mieszkasz?
+Are you married? : Czy jesteś zamężny/żonata?
+Do you smoke? : Palisz?
+How many do you smoke a day? : Ile palisz dziennie?
+Do you drink? : Pijesz?

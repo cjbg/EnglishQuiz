@@ -1,0 +1,105 @@
+abscess : ropieñ
+accelerate : przyœpieszaæ
+autonomic : autonomiczny
+axon : akson
+brain : Mózg
+bundle : pêczek, wi¹zka
+central : centralny
+cerebellum : mó¿d¿ek
+cerebrum : mózg
+concussion : wstrz¹s
+consciousness : przytomnoœæ
+degeneration : degeneracja, zwyrodnienie
+dementia : demencja
+dendrite : dendryt
+dizziness : zawrót g³owy
+drowsiness : sennoœæ, ospa³oœæ
+encephalitis : zapalenie mózgu
+environment : otoczenie, œrodowisko
+epileptic seizure : napad padaczkowy
+fold : fa³d, zagiêcie
+gray matter : substancja szara
+handicap : upoœledzenie
+hemisphere : pó³kula
+hydrocephalus : wodog³owie
+impulse : impuls
+meninges : opony
+meningitis : zapalenie opon mózgowych
+migraine : migrena
+multiple screlosis : stwardnienie rozsiane
+myelin : mielina
+nervous system : uk³ad nerwowy
+neurosis : nerwica
+parasympathetic : przyswpó³czulny
+paresis : niedow³ad, parcza
+peripheral : obwodowy
+persistent : uporczywy
+photophobia : œwiat³owstrêt
+projection : wystawanie
+spinal cord : rdzeñ krêgowy
+stem : pieñ
+stroke : udar, pora¿enie, apopleksja
+sympathetic : wspó³czólny
+synapse : synapsa
+thread : niæ
+throbbing : pulsuj¹cy
+traumatic : urazowy
+voluntary : dobrowolny, nieprzymusowy
+white matter : substancja bia³a
+central nervous system : centralny system nerwowy
+peripheral nervous system : obwodowy system nerwowy
+autonomic nervous system : autonomiczny system nerwowy
+cell : komórka
+branched projections : rozga³êzione wystawianie ???
+cytoplasm : cytoplazma
+nucleus : j¹dro
+conducts : przewodzi
+synaptic knobs: ???, knob - ga³ka, g³ówka, wybrzuszenie, wypuk³oœæ, wypuklina, guzek, gula, g³owica
+transmission of impulses : przekazywanie impulsów
+place of junction : miejsce skrzy¿owania
+neurotransmitters : neuroprzekaŸniki
+cerebral nerves : nerwy mózgowe
+spinal nerves : nerwów rdzeniowe
+corpus callosum : Cia³o modzelowate
+frontal lobe : p³at czo³owy
+thalamus : wzgórze
+hypothalamus : podwzgórze
+olfactory lobe : p³at wêchowy
+pituitary gland : przysadka mózgowa
+pons (na obrazku) : ???
+Medulla oblongata (na obrazku jest "obligata" na necie jest wszêdzie "oblonogata") : rdzeñ przed³u¿ony
+Corpora quadrigemina : korpusy quadrigemina ???
+pineal gland : szyszynka
+occipital lobe : p³at potyliczny
+cranial cavity : jama czaszkowa
+brain stem : pieñ mózgu
+longitudinal fissure : szczelina pod³u¿na
+cell body : cia³o komórki
+myelinated nerve fibres : mielinowych w³ókien nerwowych
+voluntary movement : dobrowolne ruch
+sensory impulses : impulsy zmys³owe
+motor impulses : impulsy motoryczne
+involuntary action : mimowolne dzia³ania
+congenital : wrodzony
+degenerative : zwyrodnieniowe
+infectious : zaraŸliwy
+brain abscess : brain abscess
+disturbances in the brain development : zaburzenia rozwoju mózgu
+congenital mental handicap : wrodzone upoœledzenie umys³owe
+mental retardation : upoœledzenie umys³owe
+metastases : przerzuty
+lesions : zmiany
+atherosclerosis : mia¿d¿yca
+hypertension : nadciœnienie
+hemiparesis : niedow³ad po³owiczy
+paralysis : parali¿
+Dilates : rozszerza
+Constricts pupil : zwê¿a Ÿrenicê
+Decreases secretion : zmniejsza wydzielanie
+slows peristalsis : spowalnia perystaltykê
+Neuropathy : neuropatia, choroba uk³adu nerwowego
+Auriculocranial : uszno-czaszkowy
+Otoplasty : operacja plastyczna ucha zewnêtrznego
+Ophthalmia : zapalenie ga³ki ocznej
+oculophacial : oczno-twarzowy
+cerebrospinal : mózgowo-rdzeniowy

@@ -1,0 +1,77 @@
+acquired : nabyty
+acquired immune deficiency syndrome : Zespó³ nabytego niedoboru odpornoœciowego
+addiction : uzale¿nienie
+ailment : choroba, cierpienie
+angina pectoris : dusznica bolesna
+chicken-pox : ospa wierzna	
+communicable disease : choroba zakaŸna
+coronary thrombosis : zakrzepica têtnicywieñcowej
+cure : leczenie
+diabetes : cukrzyca
+diphteria : b³onnica
+failure : niewydolnoœæ
+fatal : œmiertelny
+german measles : ró¿yczka
+gout : dna, skaza moczanowa
+legionnaires disease : choroba legionistów, zapalenie p³óc wywo³ane przez Legionella pneumophilia
+measles : odra
+mite : roztocz
+mumps : œwinka
+myocardial infarct : zawa³ miêœnia sercowego
+nephritis : zapalenie nerek
+obstruction : zatkanie, zaczopowanie, niedro¿noœæ
+plaque : p³ytka
+poliomyelitis : zapalenie istoty szarej rdzenia
+sarcoma : miêsak
+scarlet fever : szkarlatyna
+semen : nasienie, sperma
+smallpox : ospa
+stroke : udar, pora¿enie
+tetanus : tê¿ec
+thrombosis : zakrzepica
+thrombus : skrzeplina
+tubercle bacilli : pr¹tki gruŸlicy
+tuberculosis : gruŸlica
+typhoid : dur brzuszny
+uterine cervix : szyjka macicy
+vaccination : szczepienie
+vermin : robactwo, paso¿yty
+whooping cough : ksztusiec, koklusz
+eredicated : wypleniæ, wykorzeniæ
+tuberculin : tuberkulina
+heart disease : choroba serca
+condition predisposing : warunkiem predysponuj¹cym
+arteriosclerosis : arterioskleroza
+thicker : grubsze
+ageing : starzenie siê
+calcium deposits : z³ogi wapnia
+fatty plaques : p³ytki t³uszczowe
+hypertension : nadciœnienie
+blood clots : zakrzepy
+coronary : wieñcowe
+sedentary lifestyle : siedz¹cy tryb ¿ycia
+inflammation : stan zapalny
+renal haemodialysis : hemodializa nerek
+carbohydrates : wêglowodany
+intake : spo¿ywanie
+pollution : ska¿enie
+enviroment deterioration : pogorszenie œrodowiska
+pollen : py³ek
+dust : kurz
+rash : wysypka
+hives : pokrzywka
+hay fever : katar sienny
+eczema : wyprysk, egzema
+marburg disease : choroba Marburga
+Lassa fever : gor¹czka Lassa
+asbestosis : pylica azbestowa
+suppression of the body's immunity : t³umienie odpornoœci organizmu
+cervical secretions : wydzielina szyjki macicy
+saliva : œlina
+narrowed : zwê¿one
+cluster of cells : skupisko komórek
+heamaturia : krwiomocz
+stiffness of the joints : sztywnoœæ stawów
+vermins : robactwo
+parasites : paso¿yty
+ganorrhea : rze¿¹czka

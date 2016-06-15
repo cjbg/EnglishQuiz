@@ -1,0 +1,49 @@
+apply : zastosować
+blood pressure : ciśnienie krwi
+brachial artery : tętnica ramienna
+chart : karta gorączkowa pacjenta
+constant : stały
+cuff : mankiet
+deflate : wypuścić powietrze
+diastolic pressure : ciśnienie rozkurczowe
+inflate : napompować
+maintain : utrzymywać, podtrzymywać
+mercury : rtęć
+quantity : ilość
+slender : szczupły, smukły
+sphygmomanometer : sfygmomanometr
+systolic pressure : ciśnienie skurczowe
+vena cava : żyła główna
+ventricles : komory
+contract : kurczyć
+haemorrhage : krwotok
+hypertension : nadciśnienie
+sodium restriction : ograniczenie sodu
+antihypertensive:  przeciwnadciśnieniowe
+deflated : przybity, przygnębiony, sflaczały
+auscultation : osłuchiwanie
+extrasystole : ekstrasystoli
+bradycardia : bradykardia
+tachycardia : tachykardia
+auricular fibrillation : migotanie przedsionków
+arterial murmur : szmer tętniczej
+mitral murmur : mitralnej szmer
+tricuspid murmur : szmer trójdzielnej
+pericardial friction : tarcia osierdzia
+mild : łagodny
+slight : niewielki
+severe : ciężki
+marked : zaznaczone
+significant : znaczący
+heart disorder : zaburzenia serca
+angina pectoris : dusznica bolesna
+congestive heart failure : zastoinowa niewydolność serca
+hypotension : niedociśnienie
+myocardial ischemia : zawał mięśnia sercowego
+fall : spadek
+equal : równy
+frequent : częsty
+rapid : rapid
+rise : wzrost, powstanie
+variable : zmienna, zmienny
+rare :rzadki

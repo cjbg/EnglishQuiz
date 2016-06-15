@@ -1,0 +1,47 @@
+anxiety : niepokój, obawa
+carotid : szyjny
+femoral : udowy
+force : siła
+heart beat : bicie serca
+index finger : palec wskazujący
+infant : niemowlę
+middle finger : palec środkowy
+newborn : nowo narodzony, noworodek
+popliteal : podkolanowy
+pulse : puls
+radial : promieniowy
+reflection : odbicie, odzwierciedlenie
+relaxation : odprężenie
+temporal : skroniowy
+pumped : pompowana
+wrist : nadgarstek
+temples : świątynie
+groin : pachwina
+knee :kolano
+apical :koniuszka 
+apex : wierzchołek
+nipple : sutek
+tachycardia : tachykardia
+bradycardia : bradykardia
+arrhythmia : niemiarowość
+obstructed : zatkany
+peripheral circulatory : krążenia obwodowego
+accelerated : przyśpieszony
+shallow : płytki
+laboured : pracował
+interrupted : przerwane
+irregular : nieregularny
+alternating : zmienny
+galloping rhythm :galopujący rytm
+leaping : skaczący
+pendulum rhythm : wahadło rytm
+intermittent : przerywany
+thready : nitkowaty
+trembling :drżenie
+unequal : nierówny
+corpulent : korpulentny, brzuchaty
+stocky : krępy
+obese :otyły
+febrile : gorączkowy
+transitory : przejściowy
+epileptic :padaczkowy

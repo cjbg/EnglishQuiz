@@ -1,0 +1,57 @@
+antacid : zwi¹zek zobojêtniaj¹cy kwas
+barium meal : papka barowa podawana do po³kniêcia przed badaniem RTG
+belching : odbijanie siê
+combat : zwalczyæ
+distension : rozdêcie, wzdêcie
+eradicate : wytêpiæ wyniszczyæ (bakterie, zaka¿enie)
+eradication : wytêpienie wyniszczenie, likwidacja zaka¿enia
+erosion : nad¿erka
+exacerbation : zaostrzenie (objawów)
+gnawing : gryz¹cy
+H2-Receptor blocker ("2" na dole) : bloker receptorów wodorowych
+heal : goiæ siê
+heartburn : zgaga
+intermittent : przerywany
+proton pump inhibitor : inhibitor pompy protonowej (wodorowej)
+perforation : perforacja, przedziurawienie
+suppress : przyt³umiæ, powstrzymaæ, ograniczyæ
+tenderness : tkliwoœæ uciskowa, tkliwoœæ palpacyjna
+vagotomy : przeciêcie nerwu b³êdnego, wagotomia
+vagus : b³êdny (nerw)
+peptic ulcer : wrzód trawienny
+gastrointestinal tract : przewód pokarmowy
+gastric ulcer : wrzód gastryczny
+duodenal ulcer : wrzód dwunastnicy
+gastric acid : kwas ¿o³¹dkowy
+pepsin : pepsyna
+duodenal mucosa : b³ony œluzowej dwunastnicy
+increased acid secretion : zwiêkszone wydzielanie kwasu
+decreased mucus production : zmniejszona produkcja œluzu
+irritate duodenal lining : podra¿niaæ podszewki dwunastnicy 
+Helicobacter pylori : Helicobacter pylori
+burning pain : pal¹cy ból
+gnawing pain : gryz¹cy ból
+nausea : nudnoœci
+constipabation : zaparcie
+abdominal distention : wzdêcia
+mucosal biopsy : biopsja œluzówki
+gastric secretion : wydzielanie soku ¿o³¹dkowego
+haemorhage : krwotok
+haematemesis : krwawe wymioty
+rectal polyps : polipy odbytnicy
+cramp : skurcz
+stabbing : przeszywaj¹cy
+gastroenteritis : nie¿yt ¿o³¹dka i jelit
+acute appendicitis : ostre zapalenie wyrostka robaczkowego
+ulcerative colitis : wrzodziej¹ce zapalenie okrê¿nicy
+esophageal ulcer : owrzodzenie prze³yku
+alleviation : ulga
+regression : regresja
+subsidence : osiadanie
+mitigation : ³agodzenie
+diarrhoea : biegunka
+melaena : krew w kale
+flatulence :  wzdêcie ¿o³¹dka, bêbnica
+diminishing : malej¹cy
+inflamation : stan zapalny
+intestine : jelito

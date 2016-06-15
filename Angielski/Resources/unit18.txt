@@ -1,0 +1,79 @@
+﻿﻿accessory : dodatkowy, pomocniczy
+aid : pomoc
+angiography : angiografia
+Auscultation : słuchiwanie
+Biopsy : biopsja
+Bronchoscopy : wziernikowanie oskrzeli
+Bruit : szmer serca
+Carry out : wykonywać
+Click : click, trzask (sercowy)
+coarse rales : rzężenie grubobańkowe
+Colorectoscopy : wziernikowanie okrężnicy i odbytu
+Complete blood count : morfologia krwi
+Confirm : potwierdzić
+crackle : trzeszczenie
+Crepitation : Trzeszczenie
+Detect : dostrzegać wykrywać
+Determine : określać, ustalać
+Duration : trwanie
+Electrocardiogram : elektrokardiogram
+Electroencephalogram : elektroencefalogram
+elicit : wydobywać (coś od kogoś), ujawniać wyciągać
+Enlarged : powiększone
+Erythrocyte sedimentation rate : szybkość opadania krwinek ( O. B.)
+Fine rales : rzężenia drobnobańkowe
+Flexible : giętki elastyczny
+Gastroenteroscopy : gastroenteroskopia, wziernikowanie żołądka i jelit
+Hernia : przepuklina
+Inspection : oglądanie badanie
+Investigation : badanie
+Magnetic resonance : rezonans magnetyczny
+Murmur : szmer
+Occupation : zawód
+Oedema : obrzęk
+Palpation : palpacja
+Percussion : opukiwanie
+Pharyngoscopy : wziernikowanie gardła
+Physical examination : badanie fizykalne
+Positron : pozytron
+Radiography : radiografia
+Reveal : ujawnić
+Rigidity : sztywność
+Sample : próbka
+Sputum : plwocina
+Stethoscope : stetoskop
+Swelling : obrzmienie, opuchlizna
+Tenderness : bolesność uciskowa, tkliwość
+Tomography : tomografia 
+Ultrasonography : ultrasonografia
+Visualize : uwidocznić
+Wheeze : świszczenie
+obtain : uzyskać
+complaints : skargi
+marital : małżeński
+cyanosis : sinica
+injury : zranienie
+lumps : guzki
+dyspnoea : duszność
+swollen lymph glands : obrzęk węzłów chłonnych
+swollen blood vessels : obrzęk naczyń krwionośnych
+pulse rate : puls
+presure : ciśnienie
+abnormality : anormalność, nieprawidłowość
+rectal carcinoma : rak odbytnicy
+enlarged prostate gland  : powiększony gruczoł prostaty
+detected per rectum : wykryte metodą per rectum
+tapped : opukane
+dull : głuchy
+lung disorder : choroba płuc
+abnormal respiratory sounds : nieprawidłowy szmer oddechowy
+endoscopic examination : badanie endoskopowe
+laryngoscopy : laryngoskopia
+fetus : płód
+slice through body : przeciąć ciało
+lesions : zmiany
+blood clot : zakrzep
+abdomen : brzuch
+urine : mocz
+stool : stolec
+cerebrospinal : mózgowo-rdzeniowym

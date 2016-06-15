@@ -1,0 +1,50 @@
+bone marrow : szpik kostny
+counselling : poradnictwo
+donor : dawca
+excision : wycięcie
+immune system : układ odpornościowy
+immunosuppressant : środek immunosupresyjny
+laser : laser
+lithotripsy : kruszenie kamieni
+palliative : paliatywny, łagodzący
+recipient : biorca
+rejection : odrzucenie
+substitute : substytut, zastępowainie, podstawianie
+tiny : mały
+ultrasonography : ultrasonografia
+radiation therapy : radioterapia
+endoscope : endoskop
+transplant surgery : operacja przeszczepu
+hip joint : staw biodrowy
+heart valves : zastawki serca
+lens : soczewka
+cysts : torbiele
+derived from plants : pochodzące z roślin
+antimicrobials : środki przeciwdrobnoustrojowe
+respiratory rate : częstość oddechów
+severely : ciężko
+radium : rad
+conservative : konserwatywny
+adjuvant : środek wspomagający
+ambulatory : ambulatoryjny
+prophylactic : profilaktyczny
+emergency : przeciwawaryjny, nagły przypadek
+exploratory : badawczy
+radical : radykalny
+reconstructive : rekonstrukcyjna
+antipyretic : przeciwgorączkowy
+antihypertensive : przeciwnadciśnieniowe
+antiinflammatory : przeciwzapalne
+anticoagulant : przeciwzakrzepowe
+antihistamic : przeciwhistaminowy
+aperient : środek przeczyszczający
+gradual : stopniowy
+rapid : szybki
+uneventful : spokojny
+unexpected : nieoczekiwany
+encouraging : zachęcający
+reliable : niezawodny
+striking : uderzający
+immediate : natychmiastowy
+excellent : doskonały
+mild : łagodny
